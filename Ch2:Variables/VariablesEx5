@@ -1,0 +1,3 @@
+The first code snippet puts 3.
+
+the second code snippet errors out because x is declared inside the scope of the block and the can't be accessed from outside but puts x.
