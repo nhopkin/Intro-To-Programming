@@ -1,0 +1,9 @@
+Ex.2 
+block never called in the definition method
+returns  #<Proc:0x00005617eb37c478@(irb):5>
+
+Ex.3
+Exception handling is a way to deal with errors or unexpected values and allow the program to keep running.
+
+Ex.5
+The definition method is calling a block but doesn't use an &.
